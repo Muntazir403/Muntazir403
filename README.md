@@ -1,4 +1,4 @@
-<p> 
-<inputtype "Email" </p>
+ 
+<input type = Email >
 
-</p>
+
